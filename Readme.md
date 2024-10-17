@@ -1,4 +1,5 @@
-"COOKIE ROOKIE - ONLINE FOOD RECIPE WEBSITE
+# phpmyRecipe
+formerly "COOKIE ROOKIE - ONLINE FOOD RECIPE WEBSITE
 
 AIM: To Develop Online Recipe System such that the users may use the given recipes or upload their own.
 

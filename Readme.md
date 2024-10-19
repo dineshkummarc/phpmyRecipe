@@ -1,5 +1,5 @@
 # phpmyRecipe
-formerly "COOKIE ROOKIE - ONLINE FOOD RECIPE WEBSITE
+formerly "COOKIE ROOKIE - ONLINE FOOD RECIPE WEBSITE, Works fine on php7.2.33.
 
 AIM: To Develop Online Recipe System such that the users may use the given recipes or upload their own.
 
